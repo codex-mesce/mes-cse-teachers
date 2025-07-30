@@ -109,7 +109,7 @@
 
   {
     "id": "tch002",
-    "headerColor" : "#87001e",
+    "headerColor": "#87001e",
     "profile": "https://mes.linways.com/staffdocs/MES/evduar464f.jpg",
     "tname": "FAHMA P",
     "designation": "Asst. Professor",
@@ -164,7 +164,7 @@
         ],
         "pyqs": ""
       },
-      
+
       {
         "name": "Web Technology and Application Development",
         "code": "CST305",
@@ -188,9 +188,543 @@
       "facebook": ""
     }
   },
+
+  {
+    "id": "tch003",
+    "headerColor": "#87001e",
+    "profile": "https://mes.linways.com/staffdocs/MES/MES-454/images//myphoto1010034682.jpg",
+    "tname": "DR.ASHA G",
+    "designation": "Associate Professor",
+    "dept": "COMPUTER SCIENCE AND ENGINEERING",
+    "education": [
+      "PhD in Computer Science and Engineering,KARPAGAM ACADEMY OF HIGER EDUCATION 2020",
+      "MTech in Computer science and Engineering,CALICUT UNIVERSITY 2012",
+      "BTech in Computer science and engineering,ANNA UNIVERSITY 2005",
+      "DIPLOMA in Medical Electronics,IHRD 2001"
+    ],
+    "interst": [
+      "Database Management Systems",
+      "Operating Sysytems",
+      "wireless sensor networks"
+    ],
+    "courses": [
+      {
+        "name": "C programming",
+        "code": "CST101",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Database Management System",
+        "code": "CST203",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Data Structures",
+        "code": "CST201",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Object Oriented Programming",
+        "code": "CST205",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Web Technology and Application Development",
+        "code": "CST305",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Operating System",
+        "code": "CST206",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      }
+    ],
+    "connection": {
+      "mail": "ashasreejesh@gmail.com",
+      "linkedin": "",
+      "whatsapp": "https://wa.me/918075427140",
+      "youtube": "",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+
+  {
+    "id": "tch004",
+    "headerColor": "#87001e",
+    "profile": "https://mes.linways.com/staffdocs/MES/MES-980/images//myphoto1126076858.jpg",
+    "tname": "SWATHY SEKHAR",
+    "designation": "Asst. Professor",
+    "dept": "Computer Science & Engineering",
+    "education": [
+      "M.Tech in Computational Engineering and Networking at Amrita Viswa Vidyapeetham, Coimbatore in 2012.",
+      "B.Tech in Computer Science and Engineering at Sarabhai Institute of Science and Technology, Thiruvananthapuram under CUSAT in 2010."
+    ],
+    "interst": [
+      "AI & Machine Learning",
+      "Data Science",
+      "Natural Language Processing",
+      "Deep Learning",
+      "Molecular Representation Learning"
+    ],
+    "courses": [
+      {
+        "name": "C programming",
+        "code": "CST101",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Database Management System",
+        "code": "CST203",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Data Structures",
+        "code": "CST201",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Object Oriented Programming",
+        "code": "CST205",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Web Technology and Application Development",
+        "code": "CST305",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Operating System",
+        "code": "CST206",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      }
+    ],
+    "connection": {
+      "mail": "swathysekhar88@gmai.com",
+      "linkedin": "",
+      "whatsapp": "https://wa.me/919633712484",
+      "youtube": "",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+
+  {
+    "id": "tch005",
+    "headerColor": "#000813",
+    "profile": "https://mes.linways.com/staffdocs/MES/MES-1004/images//myphoto86436728.jpg",
+    "tname": "HARIKRISHNAN G.R.",
+    "designation": "Asst. Professor",
+    "dept": "COMPUTER SCIENCE AND ENGINEERING",
+    "education": [
+      "PhD(Pursuing) - APJ Abdul Kalam Technological University, Thiruvanathapuram",
+      "ME(Computer Science & Engineering) - Anna University, Chennai",
+      "B.Tech(Information Technology) - Kerala University, Thiruvanathapuram"
+    ],
+    "interst": ["Data Analytics", "Machine Learning", "Deep Learnng"],
+    "courses": [
+      {
+        "name": "C programming",
+        "code": "CST101",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Database Management System",
+        "code": "CST203",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Data Structures",
+        "code": "CST201",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Object Oriented Programming",
+        "code": "CST205",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Web Technology and Application Development",
+        "code": "CST305",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Operating System",
+        "code": "CST206",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      }
+    ],
+    "connection": {
+      "mail": "harikrishnan@mesce.c.in",
+      "linkedin": "",
+      "whatsapp": "https://wa.me/919446610407",
+      "youtube": "",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+
+  {
+    "id": "tch006",
+    "headerColor": "#000813",
+    "profile": "https://mes.linways.com/staffdocs/MES/MES-750/images//myphoto243228961.jpg",
+    "tname": "SYED FAROOK K.",
+    "designation": "Asst. Professor",
+    "dept": "Computer Science & Engineering",
+    "education": [
+      "Master of Engineering (M.E) - KAHE, Coimbatore.",
+      "Bachelor of Engineering (B.E) - Anna University, Chennai."
+    ],
+    "interst": [
+      "Data Mining",
+      "Data base management",
+      "Search Engine Optimization",
+      "Blockchain Technologies"
+    ],
+    "courses": [
+      {
+        "name": "C programming",
+        "code": "CST101",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Database Management System",
+        "code": "CST203",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Data Structures",
+        "code": "CST201",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Object Oriented Programming",
+        "code": "CST205",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Web Technology and Application Development",
+        "code": "CST305",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Operating System",
+        "code": "CST206",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      }
+    ],
+    "connection": {
+      "mail": "syedfarook@mesce.ac.in",
+      "linkedin": "linkedin.com/in/syedfarookkasim1210",
+      "whatsapp": "https://wa.me/919746074009",
+      "youtube": "",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+
+  {
+    "id": "tch006",
+    "headerColor": "#87001e",
+    "profile": "https://mes.linways.com/staffdocs/MES/MES-742/images//myphoto995620815.jpg",
+    "tname": "FARZANA T.",
+    "designation": "Asst. Professor",
+    "dept": "Computer Science & Engineering",
+    "education": [
+      "PURSUING PHD FROM KARUNYA INSTITUTE OF TECHNNOLOGY AND SCIENCES IN COMPUTER VISION",
+      "M.TECH FROM CALICUT UNIVERSITY",
+      "B.TECH FROM CALICUT UNIVERSITY"
+    ],
+    "interst": [
+      "WIRELESS SENSOR NETWORKS",
+      "WIRELESS SECURITY",
+      "DEEP LEARNING, COMPUTERVIVION, THEORY OF COMPUTATION"
+    ],
+    "courses": [
+      {
+        "name": "C programming",
+        "code": "CST101",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Database Management System",
+        "code": "CST203",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Data Structures",
+        "code": "CST201",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Object Oriented Programming",
+        "code": "CST205",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Web Technology and Application Development",
+        "code": "CST305",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Operating System",
+        "code": "CST206",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      }
+    ],
+    "connection": {
+      "mail": "farsanat@gmail.com",
+      "linkedin": "",
+      "whatsapp": "https://wa.me/919567432472",
+      "youtube": "",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+
   {
     "id": "tch008",
-    "headerColor" : "#87001e",
+    "headerColor": "#87001e",
     "profile": "https://mes.linways.com/staffdocs/MES/MES-1265/images/myphoto1411706769.jpg",
     "tname": "Haseena MK",
     "designation": "Asst. Professor",
@@ -245,7 +779,7 @@
         ],
         "pyqs": ""
       },
-      
+
       {
         "name": "Web Technology and Application Development",
         "code": "CST305",
@@ -271,19 +805,17 @@
   },
   {
     "id": "tch009",
-    "headerColor" : "#87001e",
+    "headerColor": "#87001e",
     "profile": "https://mes.linways.com/staffdocs/MES/MES-1021/images/myphoto2111796329.jpg",
     "tname": "ASWATHY BABU C.A",
     "designation": "Asst. Professor",
     "dept": "Computer Science & Engineering",
     "education": [
-      "Pursuing PhD in CSE at Karunya Institute of Technology & Sciences, Coimbatore",
+      "Pursuing PhD (Part-Time)in CSE at Karunya Institute of Technology & Sciences, Coimbatore",
       "M.Tech in Information & Communication Engineering from Anna University ,Chennai",
       "B.Tech In Information Technology from College of Engineering,Munnar"
     ],
-    "interst": [
-      "Deep learning"
-    ],
+    "interst": ["Deep learning"],
     "courses": [
       {
         "name": "Python programming",
@@ -324,7 +856,7 @@
         ],
         "pyqs": ""
       },
-      
+
       {
         "name": "Web Technology and Application Development",
         "code": "CST305",
@@ -350,7 +882,7 @@
   },
   {
     "id": "tch010",
-    "headerColor" : "#000813",
+    "headerColor": "#87001e",
     "profile": "https://mes.linways.com/staffdocs/MES/MES-1036/images//myphoto303711820.jpg",
     "tname": "SREEKANTH E. S",
     "designation": "Asst. Professor",
@@ -404,7 +936,7 @@
         ],
         "pyqs": ""
       },
-      
+
       {
         "name": "Web Technology and Application Development",
         "code": "CST305",
@@ -430,7 +962,7 @@
   },
   {
     "id": "tch011",
-    "headerColor" : "#87001e",
+    "headerColor": "#87001e",
     "profile": "https://mes.linways.com/staffdocs/MES/zjhyf9zxtn.jpg",
     "tname": "PK Nusrath",
     "designation": "Asst. Professor",
@@ -439,12 +971,7 @@
       "M.tech Computer scienceand Engineering.MES College of Engineering,Kuttippuram- APJ Abdul KalamTechnological University",
       "B.tech Information Technology Govt.Engineering College,Sreekrishnapuram -University of Calicut"
     ],
-    "interst": [
-      "OOPS",
-      "DBMS",
-      "Data Structure",
-      "Computer Networks"
-    ],
+    "interst": ["OOPS", "DBMS", "Data Structure", "Computer Networks"],
     "courses": [
       {
         "name": "Object Oriented Programming",
