@@ -1034,5 +1034,221 @@
       "instagram": "",
       "facebook": ""
     }
+  },
+{
+    "id": "tch012",
+    "headerColor": "#000813",
+    "profile": "https://mes.linways.com/staffdocs/MES/ojcfpvrw9y.jpg",
+    "tname": "SHYNI K",
+    "designation": "Asst. Professor",
+    "dept": "COMPUTER SCIENCE AND ENGINEERING",
+    "education": [
+      "MTech in Computer science and Engg,Government Engineering college Thrissur",
+      "BTech in Computer Science and Engg, AWH Engineering College Calcut.",
+      "Polytechnic Diploma in Computer Engg,Goverment Polytechnic college Tirurangadi"
+    ],
+    "interst": [
+      "C Programming",
+      "Data structure and Algorithms",
+      "Python programming",
+      "Java Programming"
+    ],
+    "courses": [
+      {
+        "name": "C programming",
+        "code": "CST101",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Database Management System",
+        "code": "CST203",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Data Structures",
+        "code": "CST201",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Object Oriented Programming",
+        "code": "CST205",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Web Technology and Application Development",
+        "code": "CST305",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Operating System",
+        "code": "CST206",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      }
+    ],
+    "connection": {
+      "mail": "shyni.kooleri@gmail.com",
+      "linkedin": "",
+      "whatsapp": "https://wa.me/916238469197",
+      "youtube": "",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+
+  {
+    "id": "tch013",
+    "headerColor": "#000813",
+    "profile": "https://mes.linways.com/staffdocs/MES/MES-978/images//myphoto1526132834.jpg",
+    "tname": "JIJU T.D.",
+    "designation": "Asst. Professor",
+    "dept": "COMPUTER SCIENCE AND ENGINEERING",
+    "education": [
+      "M.Tech in Networking and Internet Engineering from Sri Jayachamarajendra College of Engineering ,Mysore under VTU",
+      "B.Tech in Computer Science and Engineering from National Institute of Engineering ,Mysore under University of Mysore",
+      "Cisco Certified Network Associate (CCNA)",
+      "Microsoft Certified Professional (MCP)",
+      "Certified Novell Administrator(CNA)"
+    ],
+    "interst": [
+      "Computer Networking ,Wireless Sensor Networks",
+      "Internet Technology",
+      "Computer Organization"
+    ],
+    "courses": [
+      {
+        "name": "C programming",
+        "code": "CST101",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Database Management System",
+        "code": "CST203",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Data Structures",
+        "code": "CST201",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Object Oriented Programming",
+        "code": "CST205",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Web Technology and Application Development",
+        "code": "CST305",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Operating System",
+        "code": "CST206",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      }
+    ],
+    "connection": {
+      "mail": "jijutd@gmail.com",
+      "linkedin": "",
+      "whatsapp": "https://wa.me/919048007321",
+      "youtube": "",
+      "instagram": "",
+      "facebook": ""
+    }
   }
 ]
