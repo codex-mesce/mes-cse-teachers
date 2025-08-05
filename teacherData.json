@@ -19,80 +19,14 @@
     ],
     "courses": [
       {
-        "name": "C programming",
-        "code": "CST101",
-        "syllabus": "",
+        "name": "Algorithimic Thinking with Python",
+        "code": "UCEST105",
+        "syllabus": "https://drive.google.com/drive/folders/1AAB_9smsQQqqaOB7XCqDVQSUvtVMYkl2",
         "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Database Management System",
-        "code": "CST203",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Data Structures",
-        "code": "CST201",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Object Oriented Programming",
-        "code": "CST205",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Web Technology and Application Development",
-        "code": "CST305",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Operating System",
-        "code": "CST206",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
+          "https://drive.google.com/file/d/1cS7IiK_xz-tNYuhtDdPH9jrLfNZVTBdu/view?usp=drive_link",
+          "https://drive.google.com/file/d/11Yx-fVR-pohprec5EIBZtZytbXQfHi4I/view?usp=drive_link",
+          "https://drive.google.com/file/d/1qTqmVA5CM0eGiy0iFQmRlzwZtvxYVQH_/view?usp=drive_link",
+          "https://drive.google.com/file/d/1CGSN4tUeuorQFA1FEDOuBDBUCqwgnlvg/view?usp=drive_link"
         ],
         "pyqs": ""
       }
@@ -634,80 +568,15 @@
     ],
     "courses": [
       {
-        "name": "C programming",
-        "code": "CST101",
-        "syllabus": "",
+        "name": "Formal Languages and Automata Theory",
+        "code": "CST301",
+        "syllabus": "https://drive.google.com/file/d/1wtN517gIwNbX718BTSIA-xs4JHqVZ_Ms/view?usp=drive_link",
         "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Database Management System",
-        "code": "CST203",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Data Structures",
-        "code": "CST201",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Object Oriented Programming",
-        "code": "CST205",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Web Technology and Application Development",
-        "code": "CST305",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Operating System",
-        "code": "CST206",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
+          "https://drive.google.com/file/d/17IG7FiwKFPtsK-l8FKQ4sdRnRUek09QH/view?usp=drive_link",
+          "https://drive.google.com/file/d/1HQ35mtmBT9m2ahh_Ut9lWN8HkZRWvdXq/view?usp=drive_link",
+          "https://drive.google.com/file/d/1-6YJ72AxGy7uV-Kz5SPRN7ZMla8jp_Cd/view?usp=drive_link",
+          "",
+          ""
         ],
         "pyqs": ""
       }
@@ -815,58 +684,18 @@
       "M.Tech in Information & Communication Engineering from Anna University ,Chennai",
       "B.Tech In Information Technology from College of Engineering,Munnar"
     ],
-    "interst": ["Deep learning"],
+    "interst": ["Deep learning", "Artificial Intelligence"],
     "courses": [
-      {
-        "name": "Python programming",
-        "code": "CST101",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
       {
         "name": "Object Oriented Programming",
         "code": "CST205",
-        "syllabus": "",
+        "syllabus": "https://drive.google.com/file/d/19iomO8kq8GbFsKDi5NgSUhzrb4YyqMoi/view?usp=drive_link",
         "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Database Management System",
-        "code": "CST203",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-
-      {
-        "name": "Web Technology and Application Development",
-        "code": "CST305",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
+          "https://drive.google.com/file/d/15ou8qrAoQcrVXbB9PkoXSyj42r7tJlXq/view?usp=drive_link",
+          "https://drive.google.com/file/d/1J_XGR1KwcbUBQbRdhceLRwzONsxjRKG5/view?usp=drive_link",
+          "https://drive.google.com/file/d/1CYuzgOGcLo2GaJcw9BA6jto_4T46tafw/view?usp=drive_link",
+          "https://drive.google.com/file/d/1tcee5G_RmRz_la9MkFBhNItu8q6P1LNT/view?usp=drive_link",
+          "https://drive.google.com/file/d/1EPLtMLpRdR9S63TLPpneFXWL2EfAw3xq/view?usp=drive_link"
         ],
         "pyqs": ""
       }
