@@ -461,82 +461,30 @@
     ],
     "courses": [
       {
-        "name": "C programming",
-        "code": "CST101",
-        "syllabus": "",
+        "name": "MANAGEMENT OF SOFTWARE SYSTEMS",
+        "code": "CST309",
+        "syllabus": "https://drive.google.com/file/d/1FRSBjCAWOxpv4RRIachdOnWZcH8QC5br/view?usp=drive_link",
         "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
+          "https://drive.google.com/file/d/1HU7y1JEZLXQWUtD9zRSP4MKfP-_PXRVI/view?usp=drive_link",
+          "https://drive.google.com/file/d/1bc4_GJTqeTRoCM8v63Eo1HkEFOv-_UHc/view?usp=drive_link",
+          "https://drive.google.com/file/d/1DBbJhiO5THvqIzBks7uEeNorQeJhEZiP/view?usp=drive_link",
+          "https://drive.google.com/file/d/1gYmJhMlKPKjxtSmRXBje2JPB_2-ropSY/view?usp=drive_link",
+          "https://drive.google.com/file/d/1Ep5LJO9Mslv1wll4AgUMyqyHVxFncZt5/view?usp=drive_link"
         ],
-        "pyqs": ""
+        "pyqs": "https://drive.google.com/drive/folders/1N7F7cK1tr4yq96KFwPM38KfPnEuKBPhd?usp=drive_link"
       },
       {
-        "name": "Database Management System",
-        "code": "CST203",
-        "syllabus": "",
+        "name": "BLOCKCHAIN TECHNOLOGIES",
+        "code": "CST2428",
+        "syllabus": "https://drive.google.com/file/d/1K9K1hg610O9v41wt2FWc85z3pBGa_G_z/view?usp=drive_link",
         "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
+          "https://drive.google.com/drive/folders/1WSaunBvh0GoL_eb0egAC_Y4sNoG19mje?usp=drive_link",
+          "https://drive.google.com/drive/folders/18AymreGYF9F1zY_LXJm6DVl2ZNJ7xX-M?usp=drive_link",
+          "https://drive.google.com/drive/folders/1W9TIUJM_JwCfSaDAfc6AvtJ9H3rvTD4k?usp=drive_link",
+          "https://drive.google.com/drive/folders/1a-hieYfoul2DTXAQ-d3e75b4B8-5mOsv?usp=drive_link",
+          "https://drive.google.com/drive/folders/1AiXMcP9XXyfAJDuMZhVAkaIkOS013JaP?usp=drive_link"
         ],
-        "pyqs": ""
-      },
-      {
-        "name": "Data Structures",
-        "code": "CST201",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Object Oriented Programming",
-        "code": "CST205",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Web Technology and Application Development",
-        "code": "CST305",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Operating System",
-        "code": "CST206",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
+        "pyqs": "https://drive.google.com/drive/folders/1P8GlWXk4K_t_esmJYBYAx2Z4-vi2rLTE?usp=drive_link"
       }
     ],
     "connection": {
