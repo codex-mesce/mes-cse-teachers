@@ -251,80 +251,15 @@
     ],
     "courses": [
       {
-        "name": "C programming",
-        "code": "CST101",
-        "syllabus": "",
+        "name": " Computer Networks",
+        "code": "CST303",
+        "syllabus": "https://drive.google.com/file/d/1OCOPyNEO2DgM9u2w-ERn-ZX7f1jiarOm/view?usp=drive_link",
         "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Database Management System",
-        "code": "CST203",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Data Structures",
-        "code": "CST201",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Object Oriented Programming",
-        "code": "CST205",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Web Technology and Application Development",
-        "code": "CST305",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
-        ],
-        "pyqs": ""
-      },
-      {
-        "name": "Operating System",
-        "code": "CST206",
-        "syllabus": "",
-        "notes": [
-          "module 1 link",
-          "module 2 link",
-          "module 3 link",
-          "module 4 link",
-          "module 5 link"
+          "https://drive.google.com/file/d/1SeqM-fsOF4GKgqS1Y1oJZysv-edHKnzw/view?usp=drive_link",
+          "https://docs.google.com/document/d/1ywyrYc06TnJ5bos1rjKJdfey-jLqNHpF/edit?usp=drive_link&ouid=106896548976909473276&rtpof=true&sd=true",
+          "https://drive.google.com/file/d/115fkuM9BakqaIeIxqpmAsZ-pXpwm7GBT/view?usp=drive_link",
+          "https://drive.google.com/file/d/1oHNIXYg6_QmjAs23fNUn3kEvR_Y75qVT/view?usp=drive_link",
+          "https://drive.google.com/file/d/1TXXwRMe4S79tYfWLHEX1dsuknNq8tW5X/view?usp=drive_link"
         ],
         "pyqs": ""
       }
@@ -522,9 +457,9 @@
         "notes": [
           "https://drive.google.com/file/d/17IG7FiwKFPtsK-l8FKQ4sdRnRUek09QH/view?usp=drive_link",
           "https://drive.google.com/file/d/1HQ35mtmBT9m2ahh_Ut9lWN8HkZRWvdXq/view?usp=drive_link",
-          "https://drive.google.com/file/d/1-6YJ72AxGy7uV-Kz5SPRN7ZMla8jp_Cd/view?usp=drive_link",
-          "",
-          ""
+          "https://drive.google.com/file/d/1I7xjjlJsYs0U2w1YorUEKO9bnROxi5EP/view?usp=drive_link",
+          "https://drive.google.com/file/d/18-OwPSlHaK1Tk3uIYko9jFbTNcu3u6bM/view?usp=drive_link",
+          "https://drive.google.com/file/d/1zDRU7IM1QR-QJacoZ7smzkIfR3I9fd56/view?usp=drive_link"
         ],
         "pyqs": ""
       }
@@ -1029,3 +964,4 @@
     }
   }
 ]
+
